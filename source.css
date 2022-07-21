@@ -4,12 +4,12 @@ body {
     align-items: center;
     margin: 0;
     font-family: 'Roboto';
-    height: 100vh;
+    height: 200vh;
 
 }
 
 .header {
-    width: 1900px;
+    width: 1910px;
     display: flex;
     flex-direction: row; 
     justify-content: space-between;
@@ -22,7 +22,7 @@ body {
 
 .logo {
     font-weight: 800;
-    font-size: 28px;
+    font-size: 24px;
     font-weight: bold;
     color: #F9FAF8;
     padding-left: 250px;
@@ -39,8 +39,8 @@ body {
 
 .second {
     display: flex;
-    height: 900vh;
-    width: 1900px;
+    height: 350px;
+    width: 1910px;
     display: flex;
     justify-content: center;
     align-items: center;
@@ -51,25 +51,101 @@ body {
 
 }
 
+.subtext {
+    align-self: flex-start;
+}
+
+.image {
+    align-self: flex-start;
+}
+
 h1 {
     font-weight: bolder; 
     color: #F9FAF8;
     font-size: 48px;
+    margin: 0;
+    padding-top: 0;
 }
+
+p {
+    color: #E5E7EB;
+    font-size: 18px;
+    margin: 0;
+    max-width: 355px;
+}
+
+button {
+    background-color: #3882F8;
+    font-weight: bold;
+    color: #E5E7EB;
+    border-radius: 8px;
+    padding: 10px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    margin-top: 5px;
+}
+
 
 .third {
 
 
 }
 
+h2 {
+    text-align: center;
+    color: #1F2937;
+    font-size: 36px;
+    font-weight: 800;
+}
+
+.info-images {
+    display: flex;
+    justify-content: center;
+    gap: 20px;
+    max-width: 355;
+}
+
 .forth {
+    font-size: 36px;
+    font-style: italic;
+    color: #1F2937;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    height: 350px;
+    width: 1910px;
+    background-color: #E5E7EB;
+}
 
-
+.Audrey {
+    padding-left: 593px;
 }
 
 .fifth {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 250px;
+    width: 1910px;
+}
 
 
+.blue {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100px;
+    width: 1600px;
+    background-color: #3882F8;
+    color: #E5E7EB;
+    border-radius: 8px;
+    gap: 150px;
+
+}
+
+h3 {
+    margin: 0;
 }
 
 .footnote {
