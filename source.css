@@ -1,1 +1,64 @@
-css
+source.css
+
+body {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin: 0;
+
+}
+
+.header {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    background-color: #1F2937;
+    margin-top: 0;
+    border: 0;
+
+}
+
+.second {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 30px;
+
+
+}
+
+.third {
+
+
+}
+
+.forth {
+
+
+}
+
+.fifth {
+
+
+}
+
+.footnote {
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    background-color: #1F2937;
+    color: white;
+    text-align: center;
+
+}
+
+.logo {
+    font-weight: 800;
+    font-size: 48px;
+    color: #F9FAF8;
+}
+
+.header-links {
+    color: #F9FAF8;
+}
