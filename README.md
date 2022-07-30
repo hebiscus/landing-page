@@ -1,6 +1,6 @@
 # Odin landing page project 
 
-Tools used: Basic html, basic CSS, (love)
+Tools used: Vanilla html, vanilla CSS, (love)
 
 Live: https://hebiscus.github.io/landing-page/
 
