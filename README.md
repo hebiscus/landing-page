@@ -1,4 +1,6 @@
-odin landing page project 
+Odin landing page project 
+
+Live: https://hebiscus.github.io/landing-page/
 
 photo of a monkey with banana: Oleksandr Pidvalnyi, https://www.pexels.com/photo/brown-monkey-321552/.
 
