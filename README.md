@@ -1,9 +1,10 @@
-Odin landing page project 
+# Odin landing page project 
 
 Tools used: Basic html, basic CSS, (love)
 
 Live: https://hebiscus.github.io/landing-page/
 
+## Image sources
 Photo of a monkey with banana: Oleksandr Pidvalnyi, https://www.pexels.com/photo/brown-monkey-321552/.
 
 Photo of a monkey holding a mirror: Andre Mouton, https://www.pexels.com/photo/closeup-photo-of-primate-1207875/
